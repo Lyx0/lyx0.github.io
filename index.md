@@ -3,4 +3,5 @@ title: noury.ee
 layout: default
 ---
 
-xd
+Oh wow what a great site 
+
