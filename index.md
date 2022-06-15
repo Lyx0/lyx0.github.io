@@ -20,7 +20,7 @@ Instance: <a href="https://searx.noury.ee"> https://searx.noury.ee</a>
 </p>
 
 
-<h2>Proxitok</h2>
+<h2>ProxiTok</h2>
 <p>
 Open source alternative frontend for TikTok made using PHP <br>
 Source: <a href="https://github.com/pablouser1/ProxiTok">https://github.com/pablouser1/ProxiTok</a><br>
