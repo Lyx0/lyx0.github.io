@@ -37,7 +37,7 @@ Instance: <a href="https://tiktok.noury.ee"> https://tiktok.noury.ee</a>
 
 <h2>Discord Video Embedder</h2>
 <p>
-Let's you watch a discord video in the browser instead of downloading it by default. <br>
+Lets you watch a discord video in the browser instead of downloading it by default. <br>
 Simply paste the link to a discord video at the end of the url(after the /, if there is none add one). <br>
 Source: <a href="https://github.com/lyx0/discord-video-embed">https://github.com/lyx0/discord-video-embed</a><br>
 Instance: <a href="https://dc.noury.ee"> https://dc.noury.ee</a><br>
